@@ -1,0 +1,6 @@
+<application>
+   <!-- You will only need to add this meta-data tag, but make sure it's a child of application -->
+   <meta-data
+     android:name="com.google.android.geo.API_KEY"
+     android:value="AIzaSyAjp7qsUQ_k6RZZYcvPTXB7Um0JbKph5iw"/>
+</application>

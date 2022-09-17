@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2022</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2022</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/品川/ベビカル駅たびコンシェルジュ品川（レンタルベビーカー）、〒108-0074 東京都港区高輪３丁目26−２７ 中央改札外 JR 品川駅/@35.6287277,139.7375754,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x60188a5a6e148775:0x9a45c347f706db70!2m2!1d139.7387597!2d35.6284713!1m5!1m1!1s0x60188bd066f5205b:0x4fdc94124d4f629!2m2!1d139.7384804!2d35.6289842!3e2?hl=ja&hl=en</url-->
+    <time>2022-08-25T18:20:08Z</time>
+  </metadata>
+  <wpt lat="35.6284713" lon="139.7387597">
+    <name>品川</name>
+    <desc>Shinagawa Station, 3 Chome-26-27 Takanawa, Minato City, Tokyo 108-0074, Japan</desc>
+  </wpt>
+  <wpt lat="35.6284713" lon="139.7387597">
+      <name>品川</name>
+      <desc>Shinagawa Station, 3 Chome-26-27 Takanawa, Minato City, Tokyo 108-0074, Japan</desc>
+  </wpt>
+<trk>
+  <name>品川 to ベビカル駅たびコンシェルジュ品川（レンタルベビーカー）、〒108-0074 東京都港区高輪３丁目26−２７ 中央改札外 JR 品川駅</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="35.6287748" lon="139.7379224">
+    <name>TP001</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

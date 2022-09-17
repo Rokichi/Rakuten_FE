@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2022</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2022</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/神奈川県横浜市保土ケ谷区宮田町１丁目 マルセン スーパーマルセン/35.45765,139.6056289/@35.4558747,139.605871,16.75z/data=!3m1!5s0x60185c1232393a9f:0x9be446454005da5a!4m9!4m8!1m5!1m1!1s0x60185bf47fcd0205:0xf895921b4ace6da2!2m2!1d139.6047387!2d35.4579822!1m0!3e2?hl=ja&hl=en</url-->
+    <time>2022-08-25T18:31:14Z</time>
+  </metadata>
+  <wpt lat="35.4579822" lon="139.6047387">
+    <name>神奈川県横浜市保土ケ谷区宮田町１丁目 マルセン スーパーマルセン</name>
+    <desc>スーパーマルセン, Japan, 〒240-0002 Kanagawa, Yokohama, Hodogaya Ward, Miyatacho, 1 Chome−5-7</desc>
+  </wpt>
+  <wpt lat="35.4579822" lon="139.6047387">
+      <name>神奈川県横浜市保土ケ谷区宮田町１丁目 マルセン スーパーマルセン</name>
+      <desc>スーパーマルセン, Japan, 〒240-0002 Kanagawa, Yokohama, Hodogaya Ward, Miyatacho, 1 Chome−5-7</desc>
+  </wpt>
+<trk>
+  <name>神奈川県横浜市保土ケ谷区宮田町１丁目 マルセン スーパーマルセン to Japan</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="35.4579822" lon="139.6047387">
+    <name>TP001</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
